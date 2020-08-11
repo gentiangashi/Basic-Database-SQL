@@ -8,6 +8,7 @@ You need a SQL server to test and use these scripts.
 ## Authors
 
 * **Gentian Gashi** - [GentianGashi](https://github.com/GentianGashi)
+* **Connor Dawkins** - [YuRukia](https://github.com/YuRukia)
 
 ## License
 
